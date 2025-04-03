@@ -1,4 +1,4 @@
-# Biblioteca_pandas
+# Análise de dados
 
 ## O dataset de varejo analisado é composto por informações de vendas de uma loja virtual, responsável por vender produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de vendas, como marketplace, loja própria, entre outros.
 
